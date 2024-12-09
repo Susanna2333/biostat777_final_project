@@ -14,8 +14,7 @@ author:
 **Yiming Ding**: JHED ID: *yding75*; Email: *yding75\@jh.edu*\
 **Ruiqing Cai**: JHED ID: *rcai9*; Email: *rcai9\@jh.edu*
 
-
-## 1. Data Preparation 
+## 1. Data Preparation
 
 ```{r load required packages, warning=FALSE, include=FALSE}
 if (!require(tidyverse)) {install.packages("tidyverse"); library(tidyverse)}
